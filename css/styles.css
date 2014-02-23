@@ -1,0 +1,34 @@
+/* Your Awesome Website */
+body {
+	background-image: url(http://sushimaruspokane.com/wp-content/uploads/background5.jpg);
+}
+
+.banner  {
+	width: 303px;
+	height: 174px;
+}
+
+.bannerback {
+	background: black;
+}
+
+.about h1 {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+table thead tr th {
+	text-align: center;
+}
+
+.contact h1 {
+	text-align: center;
+}
+
+#gmap {
+	width: 485px;
+	height: 297px;
+}
